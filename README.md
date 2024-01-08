@@ -1,7 +1,6 @@
 # _Hey there , I'm Laura!_   
 
 <ul>
-    <li> 🌱 I’m currently learning backend programming languages and databases.</li>
     <li> 🌱 I’m currently learning backend programming languages and databases. </li>
     <li> 📫 How to reach me: laura.rra58@gmail.com 
     <li> 🌐I study Computer Engineering</li>
